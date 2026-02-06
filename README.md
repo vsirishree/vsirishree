@@ -40,10 +40,10 @@
 ## 🔌 Projects & Hands-On Work
 
 ✨ Some things I’ve worked on:
-- 🔴🟢 Arduino-based LED control & signal logic  
-- 📡 Sensor interfacing and serial communication  
-- 🧠 Logic building using C / C++  
-- ⚡ Small embedded prototypes & experiments  
+- Arduino-based LED control & signal logic  
+- Sensor interfacing and serial communication  
+- Logic building using C / C++  
+- Small embedded prototypes & experiments  
 
 > More projects coming soon — **this repo is a construction site 🚧**
 
