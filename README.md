@@ -1,84 +1,155 @@
-<!-- ✨ GITHUB PROFILE README ✨ -->
+<!-- ✨ GitHub Profile README ✨ -->
 
-<h1 align="center">Heyy, I'm Siri 👋</h1>
-<h3 align="center">Electronics & Computer Engineering Student | Curious Builder | Code + Circuits</h3>
+<h1 align="center">Hi, I'm Siri Shree 👋</h1>
+
+<h3 align="center">
+Electronics & Computer Engineering Student • AI & Signal Processing Enthusiast • Building at the intersection of Software and Hardware
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=500&lines=Engineering+with+curiosity;Code+meets+hardware;Learning+one+project+at+a+time" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=23&duration=3200&pause=900&color=7F3FBF&center=true&vCenter=true&width=650&lines=Electronics+%2B+Computer+Engineering;Machine+Learning+%7C+Signal+Processing;Research+%7C+Embedded+Systems;Turning+ideas+into+real-world+projects" />
 </p>
 
 ---
 
-## 🌱 About Me
+# 👩‍💻 About Me
 
-🎓 Engineering student passionate about **embedded systems, programming, and problem-solving**  
-🔧 I enjoy building **small but meaningful projects** especially with **Arduino & microcontrollers**  
-📚 Currently strengthening my fundamentals while exploring real-world applications  
-🚀 Long-term goal: **build impactful tech that blends software + hardware**
+🎓 Electronics & Computer Engineering student at **Manipal Academy of Higher Education, Bengaluru**
 
-> *“I’m not chasing perfection, I’m chasing progress.”*  
-> (but yes, my code still judges me sometimes)
+🔬 Passionate about combining **Artificial Intelligence, Signal Processing, Embedded Systems, and Remote Sensing** to solve real-world problems.
 
+💡 I enjoy taking an idea from research papers all the way to implementation—whether that's building ML models, designing embedded systems, or creating interactive applications.
 
-## 🛠️ Tech Stack
+📈 Currently exploring:
+- Machine Learning & Deep Learning
+- Signal Processing
+- Computer Vision
+- Remote Sensing
+- Embedded Systems
+- Data Analytics
 
-### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/C-Intermediate-blue?style=for-the-badge&logo=c" />
-  <img src="https://img.shields.io/badge/C++-Intermediate-00599C?style=for-the-badge&logo=cplusplus" />
-  <img src="https://img.shields.io/badge/Java-Beginner-orange?style=for-the-badge&logo=java" />
-</p>
+🎯 Long-term goal:
+Build intelligent systems that bridge **software, electronics, and research**.
 
-### ⚙️ Hardware & Tools
-<p>
-  <img src="https://img.shields.io/badge/Arduino-Projects-00979D?style=for-the-badge&logo=arduino" />
-  <img src="https://img.shields.io/badge/Embedded_Systems-Learning-informational?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Serial_Communication-UART%2C%20I2C-lightgrey?style=for-the-badge" />
-</p>
-
-
-## 🔌 Projects & Hands-On Work
-
-✨ Some things I’ve worked on:
-- Arduino-based LED control & signal logic  
-- Sensor interfacing and serial communication  
-- Logic building using C / C++  
-- Small embedded prototypes & experiments  
-
-> More projects coming soon — **this repo is a construction site 🚧**
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
-</p>
-
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siriesc1&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siriesc1&theme=tokyonight" />
-</p>
-
-
-## 🧭 What I’m Learning Next
-
-- 🚗 Real-world applications  
-- 🧩 Data structures & algorithms  
-- 🌐 Expanding into software + hardware integration  
+> *"Progress over perfection. Every project teaches something new."*
 
 ---
 
-## 🤝 Let’s Connect
+# 🛠 Tech Stack
+
+### 💻 Languages
 
 <p>
-  <a href="https://github.com/siriesc1">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/v-siri-shree-b9729b36b/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
+
+### 🤖 Machine Learning & Data Science
+
+<p>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-Learning-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TensorFlow-Exploring-FF6F00?style=for-the-badge&logo=tensorflow"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+</p>
+
+### ⚡ Electronics & Embedded
+
+<p>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino"/>
+<img src="https://img.shields.io/badge/Embedded%20Systems-Learning-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UART-I2C-SPI-lightgrey?style=for-the-badge"/>
+</p>
+
+### 🧰 Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🌍 Signal Processing for Ecology
+
+Research project exploring ecological changes using satellite remote sensing and signal processing techniques.
+
+**Tech Used**
+- Python
+- Signal Processing
+- Machine Learning
+- Remote Sensing
+
+---
+
+### 📊 Care Transition Analytics Dashboard
+
+Interactive Streamlit dashboard for predictive analytics and visualization.
+
+**Tech Used**
+- Python
+- Streamlit
+- Pandas
+- Scikit-Learn
+
+---
+
+### 🤖 Embedded Systems Projects
+
+- Arduino automation
+- Sensor interfacing
+- Serial communication
+- Logic design using C/C++
+- Hardware prototyping
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced Signal Processing
+- Machine Learning
+- Computer Vision
+- Satellite Remote Sensing
+- Data Structures & Algorithms
+- Research Methodology
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=siriesc1&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siriesc1&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=siriesc1&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/siriesc1">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/v-siri-shree-b9729b36b/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </p>
@@ -86,5 +157,7 @@
 ---
 
 <p align="center">
-  <i>Built with curiosity, caffeine, and a little bit of madness ⚡</i>
+
+<i>"Engineering isn't just about building technology—it's about building possibilities."</i>
+
 </p>
