@@ -1,6 +1,6 @@
 <!-- ✨ GitHub Profile README ✨ -->
 
-<h1 align="center">Hi, I'm Siri Shree 👋</h1>
+<h1 align="center">Hi, I'm V. Sirishree 👋</h1>
 
 <h3 align="center">
 Electronics & Computer Engineering Student • AI & Signal Processing Enthusiast • Building at the intersection of Software and Hardware
