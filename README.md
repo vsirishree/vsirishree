@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm V. Sirishree 👋</h1>
 
 <h3 align="center">
-Electronics & Computer Engineering Student • AI & Signal Processing Enthusiast • Building at the intersection of Software and Hardware
+Electronics & Computer Engineering Student • AI & Signal Processing Enthusiast • Artist
 </h3>
 
 <p align="center">
@@ -139,6 +139,15 @@ Interactive Streamlit dashboard for predictive analytics and visualization.
 </p>
 
 ---
+## 🎨 Beyond Code
+
+When I'm not debugging or building projects, you'll probably find me painting, sketching, or experimenting with different art styles.
+
+<p>
+  <a href="[YOUR_ART_INSTAGRAM_LINK](https://www.instagram.com/artdiariesofsiri/)">
+    <img src="https://img.shields.io/badge/Art%20Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 # 📫 Connect With Me
 
