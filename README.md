@@ -148,7 +148,7 @@ Interactive Streamlit dashboard for predictive analytics and visualization.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href=["https://www.linkedin.com/in/v-siri-shree-b9729b36b/"](https://www.linkedin.com/in/v-sirishree-b9729b36b/)>
+<a href="https://www.linkedin.com/in/v-sirishree-b9729b36b/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
