@@ -141,11 +141,11 @@ Interactive Streamlit dashboard for predictive analytics and visualization.
 ---
 ## 🎨 Beyond Code
 
-When I'm not debugging or building projects, you'll probably find me painting, sketching, or experimenting with different art styles.
+Engineering keeps me curious, but art keeps me grounded. When I'm away from code, you'll usually find me painting, sketching, or chasing the timeless beauty of old master paintings and expressive portraits.
 
 <p>
-  <a href="[YOUR_ART_INSTAGRAM_LINK](https://www.instagram.com/artdiariesofsiri/)">
-    <img src="https://img.shields.io/badge/Art%20Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://www.instagram.com/artdiariesofsiri/" target="_blank">
+    <img src="https://img.shields.io/badge/🎨%20Art%20Diaries%20of%20Siri-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
