@@ -8,9 +8,13 @@ I also spend an unreasonable amount of time sketching animals, reading research 
 
 You'll find here —
 ★ Wildlife & conservation technology projects
+
 ★ Remote sensing and GIS experiments
+
 ★ AI & machine learning projects
+
 ★ Electronics and embedded systems
+
 ★ The occasional creative project because art deserves to exist beside code
 
 ### Current toolbox
