@@ -1,173 +1,38 @@
-<!-- ✨ GitHub Profile README ✨ -->
+# Heyy, I'm Sirishree! 🌿
 
-<h1 align="center">Hi, I'm V. Sirishree 👋</h1>
+Half sketchbook, half code editor. Welcome :D
 
-<h3 align="center">
-Electronics & Computer Engineering Student • AI & Signal Processing Enthusiast • Artist
-</h3>
+I'm an Electronics & Computer Engineering student who loves building technology that can make a difference for wildlife and conservation. Most of my projects sit somewhere between AI, signal processing, remote sensing, and a little bit of creativity.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=23&duration=3200&pause=900&color=7F3FBF&center=true&vCenter=true&width=650&lines=Electronics+%2B+Computer+Engineering;Machine+Learning+%7C+Signal+Processing;Research+%7C+Embedded+Systems;Turning+ideas+into+real-world+projects" />
-</p>
+I also spend an unreasonable amount of time sketching animals, reading research papers, and wondering how engineering can help protect nature.
 
----
+You'll find here —
+★ Wildlife & conservation technology projects
+★ Remote sensing and GIS experiments
+★ AI & machine learning projects
+★ Electronics and embedded systems
+★ The occasional creative project because art deserves to exist beside code
 
-# About Me
+### Current toolbox
 
-🎓 Electronics & Computer Engineering student at **Manipal Academy of Higher Education, Bengaluru**
+Python · C++ · Google Earth Engine · OpenCV · Git · SQL · Figma
 
-   Passionate about combining **Artificial Intelligence, Signal Processing, Remote Sensing, and Art** to solve real-world problems.
+Currently learning —
+Machine Learning • Signal Processing • Embedded Systems • Computer Vision
 
-💡 I enjoy taking an idea from research papers all the way to implementation whether that's building ML models, designing embedded systems, or creating interactive applications.
+## A little more about me
 
-📈 Currently exploring:
-- Machine Learning & Deep Learning
-- Signal Processing
-- Computer Vision
-- Remote Sensing
-- Embedded Systems
-- Data Analytics
+🎨 I run an art account where I draw and paint everything that interests me 
 
-🎯 Long-term goal:
-Build intelligent systems that bridge **software, electronics, and research**.
+🌱 I'm fascinated by using AI for environmental conservation
 
-> *"Progress over perfection. Every project teaches something new."*
+📖 You'll probably find me switching between research papers and paint smeared books
 
----
+🎵 Taylor Swift is almost always playing while I code
 
-# 🛠 Tech Stack
+## Let's build something meaningful.
 
-### 💻 Languages
+I'm always happy to collaborate on projects involving
+AI • Wildlife • Remote Sensing • Sustainability • Open Source
 
-<p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</p>
-
-### 🤖 Machine Learning & Data Science
-
-<p>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/XGBoost-Learning-success?style=for-the-badge\n"/>
-<img src="https://img.shields.io/badge/TensorFlow-Exploring-FF6F00?style=for-the-badge&logo=tensorflow"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-</p>
-
-### ⚡ Electronics & Embedded
-
-<p>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino"/>
-<img src="https://img.shields.io/badge/Embedded%20Systems-Learning-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/UART-I2C-SPI-lightgrey?style=for-the-badge"/>
-</p>
-
-### 🧰 Tools
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-### 🌍 Signal Processing for Ecology
-
-Research project exploring ecological changes using satellite remote sensing and signal processing techniques.
-
-**Tech Used**
-- Python
-- Signal Processing
-- Machine Learning
-- Remote Sensing
-
----
-
-### 📊 Care Transition Analytics Dashboard
-
-Interactive Streamlit dashboard for predictive analytics and visualization.
-
-**Tech Used**
-- Python
-- Streamlit
-- Pandas
-- Scikit-Learn
-
----
-
-### 🤖 Embedded Systems Projects
-
-- Arduino automation
-- Sensor interfacing
-- Serial communication
-- Logic design using C/C++
-- Hardware prototyping
-
----
-
-# 🌱 Currently Learning
-
-- Advanced Signal Processing
-- Machine Learning
-- Computer Vision
-- Satellite Remote Sensing
-- Data Structures & Algorithms
-- Research Methodology
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=vsirishree&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsirishree&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vsirishree&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-## 🎨 Beyond Code
-
-Engineering keeps me curious, but art keeps me grounded. When I'm away from code, you'll usually find me painting, sketching, or chasing the timeless beauty of old master paintings and expressive portraits.
-
-<p>
-  <a href="https://www.instagram.com/artdiariesofsiri/" target="_blank">
-    <img src="https://img.shields.io/badge/🎨%20Art%20Diaries%20of%20Siri-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
-# 📫 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/vsirishree">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/v-sirishree-b9729b36b/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<i>"Engineering isn't just about building technology—it's about building possibilities."</i>
-
-</p>
+You can also find me on [LinkedIn](https://www.linkedin.com/in/v-sirishree-b9729b36b), Email: sirishree38@email.com and [Instagram](https://www.instagram.com/artdiariesofsiri)
