@@ -35,4 +35,4 @@ Machine Learning • Signal Processing • Embedded Systems • Computer Vision
 I'm always happy to collaborate on projects involving
 AI • Wildlife • Remote Sensing • Sustainability • Open Source
 
-You can also find me on [LinkedIn](https://www.linkedin.com/in/v-sirishree-b9729b36b), Email: sirishree38@email.com and [Instagram](https://www.instagram.com/artdiariesofsiri)
+You can also find me on [LinkedIn](https://www.linkedin.com/in/v-sirishree-b9729b36b), [Email](mailto:sirishree38@email.com) and [Instagram](https://www.instagram.com/artdiariesofsiri) !!
