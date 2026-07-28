@@ -49,10 +49,9 @@ Build intelligent systems that bridge **software, electronics, and research**.
 ### 🤖 Machine Learning & Data Science
 
 <p>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white\n"/>
-  
-<img src="https://img.shields.io/badge/XGBoost-Learning-success?style=for-the-badg\ne"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/XGBoost-Learning-success?style=for-the-badge\n"/>
 <img src="https://img.shields.io/badge/TensorFlow-Exploring-FF6F00?style=for-the-badge&logo=tensorflow"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
