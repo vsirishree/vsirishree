@@ -7,6 +7,7 @@ I'm an Electronics & Computer Engineering student who loves building technology 
 I also spend an unreasonable amount of time sketching animals, reading research papers, and wondering how engineering can help protect nature.
 
 You'll find here —
+
 ★ Wildlife & conservation technology projects
 
 ★ Remote sensing and GIS experiments
